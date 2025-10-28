@@ -1,6 +1,3 @@
 # Temp 2
-lkfjadsölfadsö
-öldsafäda
-gpakopWEOPR
-fgmklfgöslfg
-DSFÖLFKEADKOGJFDP
+
+Hejsan, valdemar skriver på rad 3
